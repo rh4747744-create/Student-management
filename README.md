@@ -29,3 +29,7 @@ git clone https://github.com/rhishi-kesh/Student-management.git
 Go to `http://localhost/phpmyadmin` make a database name: `student_management` and Import SQL file form `SQL Folder` <br> 
 Run project in `localhost` <br>
 Admin gmail = `admin@gmail.com` & password = `12345678` <br>
+
+
+مشروع الحوسبة السحابية - تنفيذ الطالب رشيد
+تم تعديل المشروع ورفعه باستخدام Git و GitHub 
